@@ -1,4 +1,4 @@
-require 'frank-cucumber/frank_localize'
+require 'frank-pivotal/frank_localize'
 
 module Frank module Cucumber
 

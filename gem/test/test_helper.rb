@@ -10,7 +10,7 @@ class MiniTest::Unit::TestCase
   include RR::Adapters::MiniTest
 end
 
-require_relative '../lib/frank-cucumber/color_helper'
-require_relative '../lib/frank-cucumber/frank_helper'
-require_relative '../lib/frank-cucumber/launcher'
+require_relative '../lib/frank-pivotal/color_helper'
+require_relative '../lib/frank-pivotal/frank_helper'
+require_relative '../lib/frank-pivotal/launcher'
 

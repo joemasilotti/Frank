@@ -10,7 +10,7 @@
 #
 ######################## ######################## ######################## 
 
-require 'frank-cucumber/cli'
+require 'frank-pivotal/cli'
 
 Frank::CLI.start
 

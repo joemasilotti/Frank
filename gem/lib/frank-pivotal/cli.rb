@@ -4,10 +4,10 @@ rescue LoadError
 end
 
 require 'thor'
-require 'frank-cucumber/launcher'
-require 'frank-cucumber/console'
-require 'frank-cucumber/frankifier'
-require 'frank-cucumber/plugins/plugin'
+require 'frank-pivotal/launcher'
+require 'frank-pivotal/console'
+require 'frank-pivotal/frankifier'
+require 'frank-pivotal/plugins/plugin'
 
 module Frank
   class CLI < Thor

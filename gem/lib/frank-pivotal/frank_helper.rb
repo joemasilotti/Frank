@@ -1,13 +1,13 @@
 require 'json'
-require 'frank-cucumber/gateway'
-require 'frank-cucumber/host_scripting'
-require 'frank-cucumber/wait_helper'
-require 'frank-cucumber/keyboard_helper'
-require 'frank-cucumber/scroll_helper'
-require 'frank-cucumber/gesture_helper'
-require 'frank-cucumber/location_helper'
-require 'frank-cucumber/bonjour'
-require 'frank-cucumber/rect.rb'
+require 'frank-pivotal/gateway'
+require 'frank-pivotal/host_scripting'
+require 'frank-pivotal/wait_helper'
+require 'frank-pivotal/keyboard_helper'
+require 'frank-pivotal/scroll_helper'
+require 'frank-pivotal/gesture_helper'
+require 'frank-pivotal/location_helper'
+require 'frank-pivotal/bonjour'
+require 'frank-pivotal/rect.rb'
 
 module Frank module Cucumber
 

@@ -24,7 +24,7 @@ task :build => :check_lib_versions
 
 desc 'open up version.rb'
 task :edit_version do
-  exec "vim #{File.dirname(__FILE__)}/lib/frank-cucumber/version.rb"
+  exec "vim #{File.dirname(__FILE__)}/lib/frank-pivotal/version.rb"
 end
 
 task :ev => :edit_version

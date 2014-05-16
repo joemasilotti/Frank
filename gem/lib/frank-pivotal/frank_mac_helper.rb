@@ -1,4 +1,4 @@
-require 'frank-cucumber/frank_helper'
+require 'frank-pivotal/frank_helper'
 
 module Frank module Cucumber
 

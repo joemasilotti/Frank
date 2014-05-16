@@ -1,6 +1,6 @@
-require 'frank-cucumber/frank_helper'
-require 'frank-cucumber/frank_mac_helper'
-require 'frank-cucumber/launcher'
+require 'frank-pivotal/frank_helper'
+require 'frank-pivotal/frank_mac_helper'
+require 'frank-pivotal/launcher'
 
 module Frank
   class Console

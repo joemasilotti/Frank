@@ -1,6 +1,6 @@
 require 'sim_launcher'
-require 'frank-cucumber/app_bundle_locator'
-require 'frank-cucumber/frank_helper'
+require 'frank-pivotal/app_bundle_locator'
+require 'frank-pivotal/frank_helper'
 
 module Frank module Cucumber
 

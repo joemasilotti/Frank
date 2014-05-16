@@ -1,4 +1,4 @@
-require 'frank-cucumber'
+require 'frank-pivotal'
 
 # UIQuery is deprecated. Please use the shelley selector engine. 
 Frank::Cucumber::FrankHelper.use_shelley_from_now_on

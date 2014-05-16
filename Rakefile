@@ -74,7 +74,7 @@ task :default => :build
 desc "build and copy everything into the gem directories for distribution as a gem"
 task :build_for_release => [:build, :copy_dist_to_gem]
 
-desc "copies contents of dist dir to the frank-cucumber gem's frank-skeleton"
+desc "copies contents of dist dir to the frank-pivotal gem's frank-skeleton"
 task :copy_dist_to_gem do
   sh "cp -r dist/* gem/frank-skeleton/"
 end

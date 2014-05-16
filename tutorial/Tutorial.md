@@ -139,10 +139,10 @@ Step 7. Get Cucumber fired up
 
 Install Cucumber[http://cukes.info] if you don't have it installed already
 
-Install the frank-cucumber gem:
-    sudo gem install frank-cucumber
+Install the frank-pivotal gem:
+    sudo gem install frank-pivotal
 
-Create a skeletal cucumber directory structure inside your project directory by running the frank-skeleton command that was installed when you installed the frank-cucumber gem.
+Create a skeletal cucumber directory structure inside your project directory by running the frank-skeleton command that was installed when you installed the frank-pivotal gem.
 
 Run the cucumber command from your project directory. You should see cucumber attempt to run the initial cucumber feature that frank-skeleton installed. It will fail because you haven't yet defined what the "Given I launch the app" step should do.
 

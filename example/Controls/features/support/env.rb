@@ -1,4 +1,4 @@
-require 'frank-cucumber'
+require 'frank-pivotal'
 
 APP_BUNDLE_PATH= ENV['APP_BUNDLE_PATH'] || "Frank/frankified_build/Frankified.app"
 

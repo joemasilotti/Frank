@@ -1,6 +1,6 @@
 require_relative 'test_helper.rb'
 
-require_relative '../lib/frank-cucumber/rect'
+require_relative '../lib/frank-pivotal/rect'
 
 module Frank module Cucumber
 
