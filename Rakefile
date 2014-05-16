@@ -1,4 +1,4 @@
-require File.expand_path( '../gem/lib/frank-cucumber/version', __FILE__ )
+require File.expand_path( '../gem/lib/frank-pivotal/version', __FILE__ )
 PRODUCT_VERSION=Frank::Cucumber::VERSION
 
 def discover_latest_sdk_for(platform)
