@@ -1,14 +1,14 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "frank-cucumber/version"
+require "frank-pivotal/version"
 
 Gem::Specification.new do |s|
-  s.name        = "frank-cucumber"
+  s.name        = "frank-pivotal"
   s.version     = Frank::Cucumber::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Pete Hodgson","Derek Longmuir"]
-  s.email       = ["gems@thepete.net"]
-  s.homepage    = "http://rubygems.org/gems/frank-cucumber"
+  s.authors     = ["Pete Hodgson","Derek Longmuir", "Joe Masilotti"]
+  s.email       = ["joseph.masilotti@gmail.com"]
+  s.homepage    = "http://rubygems.org/gems/frank-pivotal"
   s.summary     = %q{Use cucumber to test native iOS apps via Frank}
   s.description = %q{Use cucumber to test native iOS apps via Frank}
 
